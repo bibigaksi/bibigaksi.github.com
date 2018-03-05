@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fc171d98-4ef3-44da-a491-f6d49eedee6a" name="portfolio" url="http://kimsuyeon.co.kr">
+        <fileTransfer host="kimsuyeon.co.kr" port="21" rootFolder="/html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
