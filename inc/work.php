@@ -2,7 +2,7 @@
     <li>
         <div class="sliderImg">
             <a href="http://www.pcpp.go.kr/main.do" target="_blank">
-                <img src="../images/workImg00.jpg" alt="" />
+                <img src="/portfolio/images/workImg00.jpg" alt="" />
             </a>
         </div>
         <div class="workCon">
@@ -39,7 +39,7 @@
     <li>
         <div class="sliderImg">
             <a href="http://kimsuyeon.co.kr/home"  target="_blank">
-                <img src="../images/workImg01.jpg" alt="" />
+                <img src="/portfolio/images/workImg01.jpg" alt="" />
             </a>
         </div>
         <div class="workCon">
@@ -79,7 +79,7 @@
     <li>
         <div class="sliderImg">
             <a href="http://sustainability.coway.co.kr/"  target="_blank">
-                <img src="../images/workImg02.jpg" alt="" />
+                <img src="/portfolio/images/workImg02.jpg" alt="" />
             </a>
         </div>
         <div class="workCon">
@@ -134,7 +134,7 @@
     <li>
         <div class="sliderImg">
             <a href="http://keiti.re.kr/air/kor/index.do"  target="_blank">
-                <img src="../images/workImg03.jpg" alt="" />
+                <img src="/portfolio/images/workImg03.jpg" alt="" />
             </a>
         </div>
         <div class="workCon">
@@ -168,7 +168,7 @@
     <li>
         <div class="sliderImg">
             <a href="https://d.cyber.hs.kr/apps/index.do" target="_blank">
-                <img src="../images/workImg04.jpg" alt="" />
+                <img src="/portfolio/images/workImg04.jpg" alt="" />
             </a>
         </div>
         <div class="workCon">
@@ -204,7 +204,7 @@
     <li>
         <div class="sliderImg">
             <a href="http://www.cyber.ms.kr/user/index.do" target="_blank">
-                <img src="../images/workImg05.jpg" alt="" />
+                <img src="/portfolio/images/workImg05.jpg" alt="" />
             </a>
         </div>
         <div class="workCon">
@@ -245,7 +245,7 @@
     <li>
         <div class="sliderImg">
             <a href="http://eishub.devtest.co.kr/month01.asp" target="_blank">
-                <img src="../images/workImg06.jpg" alt="" />
+                <img src="/portfolio/images/workImg06.jpg" alt="" />
             </a>
         </div>
         <div class="workCon">
@@ -282,7 +282,7 @@
     <li>
         <div class="sliderImg">
             <a href="http://www.devtest.co.kr/infinity/" target="_blank">
-                <img src="../images/workImg07.jpg" alt="" />
+                <img src="/portfolio/images/workImg07.jpg" alt="" />
             </a>
         </div>
         <div class="workCon">
@@ -319,7 +319,7 @@
     <li>
         <div class="sliderImg">
             <a href="http://www.chemistory.go.kr/" target="_blank">
-                <img src="../images/workImg08.jpg" alt="" />
+                <img src="/portfolio/images/workImg08.jpg" alt="" />
             </a>
         </div>
         <div class="workCon">
