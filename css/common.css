@@ -517,6 +517,7 @@ footer {background-color:#fff;padding: 38px 0 28px; text-align:center;}
 .gnbUL li:nth-child(odd) span{left: -1950px;}
 .gnbUL li:nth-child(odd):hover span{left: -1500px;}
 nav{display:none;}
+
 /* indicator */
 .indicator {
 	position:fixed;
